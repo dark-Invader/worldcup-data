@@ -279,6 +279,95 @@
       "stadium": "Atlanta Stadium",
       "utc_time": "2026-06-18T21:30:00Z",
       "status": "scheduled"
+    },
+{
+      "id": "m51",
+      "stage": "First Stage",
+      "group": "B",
+      "home_team": {"name": "Switzerland","code": "SUI","flag": "https://flagcdn.com/w320/ch.png"},
+      "away_team": {"name": "Bosnia and Herzegovina","code": "BIH","flag": "https://flagcdn.com/w320/ba.png"},
+      "city": "Los Angeles",
+      "stadium": "Los Angeles Stadium",
+      "utc_time": "2026-06-19T00:30:00Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "m52",
+      "stage": "First Stage",
+      "group": "B",
+      "home_team": {"name": "Canada","code": "CAN","flag": "https://flagcdn.com/w320/ca.png"},
+      "away_team": {"name": "Qatar","code": "QAT","flag": "https://flagcdn.com/w320/qa.png"},
+      "city": "Vancouver",
+      "stadium": "BC Place Vancouver",
+      "utc_time": "2026-06-19T03:30:00Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "m53",
+      "stage": "First Stage",
+      "group": "A",
+      "home_team": {"name": "Mexico","code": "MEX","flag": "https://flagcdn.com/w320/mx.png"},
+      "away_team": {"name": "Korea Republic","code": "KOR","flag": "https://flagcdn.com/w320/kr.png"},
+      "city": "Guadalajara",
+      "stadium": "Guadalajara Stadium",
+      "utc_time": "2026-06-19T06:30:00Z",
+      "status": "scheduled"
+    },
+
+    {
+      "id": "m54",
+      "stage": "First Stage",
+      "group": "D",
+      "home_team": {"name": "USA","code": "USA","flag": "https://flagcdn.com/w320/us.png"},
+      "away_team": {"name": "Australia","code": "AUS","flag": "https://flagcdn.com/w320/au.png"},
+      "city": "Seattle",
+      "stadium": "Seattle Stadium",
+      "utc_time": "2026-06-20T00:30:00Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "m55",
+      "stage": "First Stage",
+      "group": "C",
+      "home_team": {"name": "Scotland","code": "SCO","flag": "https://flagcdn.com/w320/gb-sct.png"},
+      "away_team": {"name": "Morocco","code": "MAR","flag": "https://flagcdn.com/w320/ma.png"},
+      "city": "Boston",
+      "stadium": "Boston Stadium",
+      "utc_time": "2026-06-20T03:30:00Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "m56",
+      "stage": "First Stage",
+      "group": "C",
+      "home_team": {"name": "Brazil","code": "BRA","flag": "https://flagcdn.com/w320/br.png"},
+      "away_team": {"name": "Haiti","code": "HTI","flag": "https://flagcdn.com/w320/ht.png"},
+      "city": "Philadelphia",
+      "stadium": "Philadelphia Stadium",
+      "utc_time": "2026-06-20T06:00:00Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "m57",
+      "stage": "First Stage",
+      "group": "D",
+      "home_team": {"name": "Türkiye","code": "TUR","flag": "https://flagcdn.com/w320/tr.png"},
+      "away_team": {"name": "Paraguay","code": "PAR","flag": "https://flagcdn.com/w320/py.png"},
+      "city": "San Francisco Bay Area",
+      "stadium": "San Francisco Bay Area Stadium",
+      "utc_time": "2026-06-20T08:30:00Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "m58",
+      "stage": "First Stage",
+      "group": "F",
+      "home_team": {"name": "Netherlands","code": "NED","flag": "https://flagcdn.com/w320/nl.png"},
+      "away_team": {"name": "Sweden","code": "SWE","flag": "https://flagcdn.com/w320/se.png"},
+      "city": "Houston",
+      "stadium": "Houston Stadium",
+      "utc_time": "2026-06-20T22:30:00Z",
+      "status": "scheduled"
     }
   ]
 }
