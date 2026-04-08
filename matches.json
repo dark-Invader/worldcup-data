@@ -535,6 +535,72 @@
       "stadium": "Guadalajara Stadium",
       "utc_time": "2026-06-24T07:30:00Z",
       "status": "scheduled"
+    },
+{
+      "id": "m74",
+      "stage": "First Stage",
+      "group": "B",
+      "home_team": {"name": "Switzerland","code": "SUI","flag": "https://flagcdn.com/w320/ch.png"},
+      "away_team": {"name": "Canada","code": "CAN","flag": "https://flagcdn.com/w320/ca.png"},
+      "city": "Vancouver",
+      "stadium": "BC Place Vancouver",
+      "utc_time": "2026-06-25T00:30:00Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "m75",
+      "stage": "First Stage",
+      "group": "B",
+      "home_team": {"name": "Bosnia and Herzegovina","code": "BIH","flag": "https://flagcdn.com/w320/ba.png"},
+      "away_team": {"name": "Qatar","code": "QAT","flag": "https://flagcdn.com/w320/qa.png"},
+      "city": "Seattle",
+      "stadium": "Seattle Stadium",
+      "utc_time": "2026-06-25T00:30:00Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "m76",
+      "stage": "First Stage",
+      "group": "C",
+      "home_team": {"name": "Scotland","code": "SCO","flag": "https://flagcdn.com/w320/gb-sct.png"},
+      "away_team": {"name": "Brazil","code": "BRA","flag": "https://flagcdn.com/w320/br.png"},
+      "city": "Miami",
+      "stadium": "Miami Stadium",
+      "utc_time": "2026-06-25T03:30:00Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "m77",
+      "stage": "First Stage",
+      "group": "C",
+      "home_team": {"name": "Morocco","code": "MAR","flag": "https://flagcdn.com/w320/ma.png"},
+      "away_team": {"name": "Haiti","code": "HTI","flag": "https://flagcdn.com/w320/ht.png"},
+      "city": "Atlanta",
+      "stadium": "Atlanta Stadium",
+      "utc_time": "2026-06-25T03:30:00Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "m78",
+      "stage": "First Stage",
+      "group": "A",
+      "home_team": {"name": "Czechia","code": "CZE","flag": "https://flagcdn.com/w320/cz.png"},
+      "away_team": {"name": "Mexico","code": "MEX","flag": "https://flagcdn.com/w320/mx.png"},
+      "city": "Mexico City",
+      "stadium": "Mexico City Stadium",
+      "utc_time": "2026-06-25T06:30:00Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "m79",
+      "stage": "First Stage",
+      "group": "A",
+      "home_team": {"name": "South Africa","code": "RSA","flag": "https://flagcdn.com/w320/za.png"},
+      "away_team": {"name": "Korea Republic","code": "KOR","flag": "https://flagcdn.com/w320/kr.png"},
+      "city": "Monterrey",
+      "stadium": "Monterrey Stadium",
+      "utc_time": "2026-06-25T06:30:00Z",
+      "status": "scheduled"
     }
   ]
 }
