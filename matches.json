@@ -601,6 +601,72 @@
       "stadium": "Monterrey Stadium",
       "utc_time": "2026-06-25T06:30:00Z",
       "status": "scheduled"
+    },
+ {
+      "id": "m80",
+      "stage": "First Stage",
+      "group": "E",
+      "home_team": {"name": "Curaçao","code": "CUW","flag": "https://flagcdn.com/w320/cw.png"},
+      "away_team": {"name": "Côte d'Ivoire","code": "CIV","flag": "https://flagcdn.com/w320/ci.png"},
+      "city": "Philadelphia",
+      "stadium": "Philadelphia Stadium",
+      "utc_time": "2026-06-26T01:30:00Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "m81",
+      "stage": "First Stage",
+      "group": "E",
+      "home_team": {"name": "Ecuador","code": "ECU","flag": "https://flagcdn.com/w320/ec.png"},
+      "away_team": {"name": "Germany","code": "GER","flag": "https://flagcdn.com/w320/de.png"},
+      "city": "New York",
+      "stadium": "New York/New Jersey Stadium",
+      "utc_time": "2026-06-26T01:30:00Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "m82",
+      "stage": "First Stage",
+      "group": "F",
+      "home_team": {"name": "Japan","code": "JPN","flag": "https://flagcdn.com/w320/jp.png"},
+      "away_team": {"name": "Sweden","code": "SWE","flag": "https://flagcdn.com/w320/se.png"},
+      "city": "Dallas",
+      "stadium": "Dallas Stadium",
+      "utc_time": "2026-06-26T04:30:00Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "m83",
+      "stage": "First Stage",
+      "group": "F",
+      "home_team": {"name": "Tunisia","code": "TUN","flag": "https://flagcdn.com/w320/tn.png"},
+      "away_team": {"name": "Netherlands","code": "NED","flag": "https://flagcdn.com/w320/nl.png"},
+      "city": "Kansas City",
+      "stadium": "Kansas City Stadium",
+      "utc_time": "2026-06-26T04:30:00Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "m84",
+      "stage": "First Stage",
+      "group": "D",
+      "home_team": {"name": "Türkiye","code": "TUR","flag": "https://flagcdn.com/w320/tr.png"},
+      "away_team": {"name": "USA","code": "USA","flag": "https://flagcdn.com/w320/us.png"},
+      "city": "Los Angeles",
+      "stadium": "Los Angeles Stadium",
+      "utc_time": "2026-06-26T07:30:00Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "m85",
+      "stage": "First Stage",
+      "group": "D",
+      "home_team": {"name": "Paraguay","code": "PAR","flag": "https://flagcdn.com/w320/py.png"},
+      "away_team": {"name": "Australia","code": "AUS","flag": "https://flagcdn.com/w320/au.png"},
+      "city": "San Francisco Bay Area",
+      "stadium": "San Francisco Bay Area Stadium",
+      "utc_time": "2026-06-26T07:30:00Z",
+      "status": "scheduled"
     }
   ]
 }
