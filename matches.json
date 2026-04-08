@@ -667,6 +667,72 @@
       "stadium": "San Francisco Bay Area Stadium",
       "utc_time": "2026-06-26T07:30:00Z",
       "status": "scheduled"
+    },
+{
+      "id": "m86",
+      "stage": "First Stage",
+      "group": "I",
+      "home_team": {"name": "Norway","code": "NOR","flag": "https://flagcdn.com/w320/no.png"},
+      "away_team": {"name": "France","code": "FRA","flag": "https://flagcdn.com/w320/fr.png"},
+      "city": "Boston",
+      "stadium": "Boston Stadium",
+      "utc_time": "2026-06-27T00:30:00Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "m87",
+      "stage": "First Stage",
+      "group": "I",
+      "home_team": {"name": "Senegal","code": "SEN","flag": "https://flagcdn.com/w320/sn.png"},
+      "away_team": {"name": "Iraq","code": "IRQ","flag": "https://flagcdn.com/w320/iq.png"},
+      "city": "Toronto",
+      "stadium": "Toronto Stadium",
+      "utc_time": "2026-06-27T00:30:00Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "m88",
+      "stage": "First Stage",
+      "group": "H",
+      "home_team": {"name": "Cabo Verde","code": "CPV","flag": "https://flagcdn.com/w320/cv.png"},
+      "away_team": {"name": "Saudi Arabia","code": "KSA","flag": "https://flagcdn.com/w320/sa.png"},
+      "city": "Houston",
+      "stadium": "Houston Stadium",
+      "utc_time": "2026-06-27T05:30:00Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "m89",
+      "stage": "First Stage",
+      "group": "H",
+      "home_team": {"name": "Uruguay","code": "URU","flag": "https://flagcdn.com/w320/uy.png"},
+      "away_team": {"name": "Spain","code": "ESP","flag": "https://flagcdn.com/w320/es.png"},
+      "city": "Guadalajara",
+      "stadium": "Guadalajara Stadium",
+      "utc_time": "2026-06-27T05:30:00Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "m90",
+      "stage": "First Stage",
+      "group": "G",
+      "home_team": {"name": "Egypt","code": "EGY","flag": "https://flagcdn.com/w320/eg.png"},
+      "away_team": {"name": "IR Iran","code": "IRN","flag": "https://flagcdn.com/w320/ir.png"},
+      "city": "Seattle",
+      "stadium": "Seattle Stadium",
+      "utc_time": "2026-06-27T08:30:00Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "m91",
+      "stage": "First Stage",
+      "group": "G",
+      "home_team": {"name": "New Zealand","code": "NZL","flag": "https://flagcdn.com/w320/nz.png"},
+      "away_team": {"name": "Belgium","code": "BEL","flag": "https://flagcdn.com/w320/be.png"},
+      "city": "Vancouver",
+      "stadium": "BC Place Vancouver",
+      "utc_time": "2026-06-27T08:30:00Z",
+      "status": "scheduled"
     }
   ]
 }
