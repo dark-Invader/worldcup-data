@@ -28,7 +28,7 @@
     },
 
     {
-"match_number": "3",
+      "match_number": "3",
       "id": "m28",
       "stage": "First Stage",
       "group": "B",
@@ -40,7 +40,7 @@
       "status": "scheduled"
     },
     {
-"match_number": "4",
+      "match_number": "4",
       "id": "m29",
       "stage": "First Stage",
       "group": "D",
@@ -53,7 +53,7 @@
     },
 
     {
-"match_number": "5",
+      "match_number": "5",
       "id": "m30",
       "stage": "First Stage",
       "group": "B",
@@ -65,7 +65,7 @@
       "status": "scheduled"
     },
     {
-"match_number": "6",
+      "match_number": "6",
       "id": "m31",
       "stage": "First Stage",
       "group": "C",
@@ -77,7 +77,7 @@
       "status": "scheduled"
     },
     {
-"match_number": "7",
+      "match_number": "7",
       "id": "m32",
       "stage": "First Stage",
       "group": "C",
@@ -89,7 +89,7 @@
       "status": "scheduled"
     },
     {
-"match_number": "8",
+      "match_number": "8",
       "id": "m33",
       "stage": "First Stage",
       "group": "D",
@@ -101,7 +101,7 @@
       "status": "scheduled"
     },
     {
-"match_number": "9",
+      "match_number": "9",
       "id": "m34",
       "stage": "First Stage",
       "group": "E",
@@ -112,7 +112,7 @@
       "utc_time": "2026-06-14T22:30:00Z",
       "status": "scheduled"
     },{
-"match_number": "10",
+      "match_number": "10",
       "id": "m35",
       "stage": "First Stage",
       "group": "F",
@@ -124,7 +124,7 @@
       "status": "scheduled"
     },
     {
-"match_number": "11",
+      "match_number": "11",
       "id": "m36",
       "stage": "First Stage",
       "group": "E",
@@ -136,7 +136,7 @@
       "status": "scheduled"
     },
     {
-"match_number": "12",
+      "match_number": "12",
       "id": "m37",
       "stage": "First Stage",
       "group": "F",
@@ -148,7 +148,7 @@
       "status": "scheduled"
     },
     {
-"match_number": "13",
+      "match_number": "13",
       "id": "m38",
       "stage": "First Stage",
       "group": "H",
@@ -161,7 +161,7 @@
     },
 
     {
-"match_number": "14",
+      "match_number": "14",
       "id": "m39",
       "stage": "First Stage",
       "group": "G",
@@ -173,7 +173,7 @@
       "status": "scheduled"
     },
     {
-"match_number": "15",
+      "match_number": "15",
       "id": "m40",
       "stage": "First Stage",
       "group": "H",
@@ -185,7 +185,7 @@
       "status": "scheduled"
     },
     {
-"match_number": "16",
+      "match_number": "16",
       "id": "m41",
       "stage": "First Stage",
       "group": "G",
@@ -196,8 +196,8 @@
       "utc_time": "2026-06-16T06:30:00Z",
       "status": "scheduled"
     },
-{
-"match_number": "17",
+    {
+      "match_number": "17",
       "id": "m42",
       "stage": "First Stage",
       "group": "I",
@@ -209,7 +209,7 @@
       "status": "scheduled"
     },
     {
-"match_number": "18",
+      "match_number": "18",
       "id": "m43",
       "stage": "First Stage",
       "group": "I",
@@ -221,7 +221,7 @@
       "status": "scheduled"
     },
     {
-"match_number": "19",
+      "match_number": "19",
       "id": "m44",
       "stage": "First Stage",
       "group": "J",
@@ -233,7 +233,7 @@
       "status": "scheduled"
     },
     {
-"match_number": "20",
+      "match_number": "20",
       "id": "m45",
       "stage": "First Stage",
       "group": "J",
@@ -245,7 +245,7 @@
       "status": "scheduled"
     },
     {
-"match_number": "21",
+      "match_number": "21",
       "id": "m46",
       "stage": "First Stage",
       "group": "K",
@@ -258,7 +258,7 @@
     },
 
     {
-"match_number": "22",
+      "match_number": "22",
       "id": "m47",
       "stage": "First Stage",
       "group": "L",
@@ -270,7 +270,7 @@
       "status": "scheduled"
     },
     {
-"match_number": "23",
+      "match_number": "23",
       "id": "m48",
       "stage": "First Stage",
       "group": "L",
@@ -282,7 +282,7 @@
       "status": "scheduled"
     },
     {
-"match_number": "24",
+      "match_number": "24",
       "id": "m49",
       "stage": "First Stage",
       "group": "K",
@@ -294,7 +294,7 @@
       "status": "scheduled"
     },
     {
-"match_number": "25",
+      "match_number": "25",
       "id": "m50",
       "stage": "First Stage",
       "group": "A",
@@ -305,8 +305,8 @@
       "utc_time": "2026-06-18T21:30:00Z",
       "status": "scheduled"
     },
-{
-"match_number": "26",
+    {
+      "match_number": "26",
       "id": "m51",
       "stage": "First Stage",
       "group": "B",
@@ -318,7 +318,7 @@
       "status": "scheduled"
     },
     {
-"match_number": "27",
+      "match_number": "27",
       "id": "m52",
       "stage": "First Stage",
       "group": "B",
@@ -330,7 +330,7 @@
       "status": "scheduled"
     },
     {
-"match_number": "28",
+      "match_number": "28",
       "id": "m53",
       "stage": "First Stage",
       "group": "A",
@@ -343,7 +343,7 @@
     },
 
     {
-"match_number": "29",
+      "match_number": "29",
       "id": "m54",
       "stage": "First Stage",
       "group": "D",
@@ -355,7 +355,7 @@
       "status": "scheduled"
     },
     {
-"match_number": "30",
+      "match_number": "30",
       "id": "m55",
       "stage": "First Stage",
       "group": "C",
@@ -367,7 +367,7 @@
       "status": "scheduled"
     },
     {
-"match_number": "31",
+      "match_number": "31",
       "id": "m56",
       "stage": "First Stage",
       "group": "C",
@@ -379,7 +379,7 @@
       "status": "scheduled"
     },
     {
-"match_number": "32",
+      "match_number": "32",
       "id": "m57",
       "stage": "First Stage",
       "group": "D",
@@ -391,7 +391,7 @@
       "status": "scheduled"
     },
     {
-"match_number": "33",
+      "match_number": "33",
       "id": "m58",
       "stage": "First Stage",
       "group": "F",
@@ -402,8 +402,8 @@
       "utc_time": "2026-06-20T22:30:00Z",
       "status": "scheduled"
     },
-{
-"match_number": "34",
+    {
+      "match_number": "34",
       "id": "m59",
       "stage": "First Stage",
       "group": "E",
@@ -415,7 +415,7 @@
       "status": "scheduled"
     },
     {
-"match_number": "35",
+      "match_number": "35",
       "id": "m60",
       "stage": "First Stage",
       "group": "E",
@@ -427,7 +427,7 @@
       "status": "scheduled"
     },
     {
-"match_number": "36",
+      "match_number": "36",
       "id": "m61",
       "stage": "First Stage",
       "group": "F",
@@ -439,7 +439,7 @@
       "status": "scheduled"
     },
     {
-"match_number": "37",
+      "match_number": "37",
       "id": "m62",
       "stage": "First Stage",
       "group": "H",
@@ -452,7 +452,7 @@
     },
 
     {
-"match_number": "38",
+      "match_number": "38",
       "id": "m63",
       "stage": "First Stage",
       "group": "G",
@@ -464,7 +464,7 @@
       "status": "scheduled"
     },
     {
-"match_number": "39",
+      "match_number": "39",
       "id": "m64",
       "stage": "First Stage",
       "group": "H",
@@ -476,7 +476,7 @@
       "status": "scheduled"
     },
     {
-"match_number": "40",
+      "match_number": "40",
       "id": "m65",
       "stage": "First Stage",
       "group": "G",
@@ -488,7 +488,7 @@
       "status": "scheduled"
     },
     {
-"match_number": "41",
+      "match_number": "41",
       "id": "m66",
       "stage": "First Stage",
       "group": "J",
@@ -499,8 +499,8 @@
       "utc_time": "2026-06-22T22:30:00Z",
       "status": "scheduled"
     },
-{
-"match_number": "42",
+    {
+      "match_number": "42",
       "id": "m67",
       "stage": "First Stage",
       "group": "I",
@@ -512,7 +512,7 @@
       "status": "scheduled"
     },
     {
-"match_number": "43",
+      "match_number": "43",
       "id": "m68",
       "stage": "First Stage",
       "group": "I",
@@ -524,7 +524,7 @@
       "status": "scheduled"
     },
     {
-"match_number": "44",
+      "match_number": "44",
       "id": "m69",
       "stage": "First Stage",
       "group": "J",
@@ -536,7 +536,7 @@
       "status": "scheduled"
     },
     {
-"match_number": "45",
+      "match_number": "45",
       "id": "m70",
       "stage": "First Stage",
       "group": "K",
@@ -549,7 +549,7 @@
     },
 
     {
-"match_number": "46",
+      "match_number": "46",
       "id": "m71",
       "stage": "First Stage",
       "group": "L",
@@ -561,7 +561,7 @@
       "status": "scheduled"
     },
     {
-"match_number": "47",
+      "match_number": "47",
       "id": "m72",
       "stage": "First Stage",
       "group": "L",
@@ -573,7 +573,7 @@
       "status": "scheduled"
     },
     {
-"match_number": "48",
+      "match_number": "48",
       "id": "m73",
       "stage": "First Stage",
       "group": "K",
@@ -584,8 +584,8 @@
       "utc_time": "2026-06-24T07:30:00Z",
       "status": "scheduled"
     },
-{
-"match_number": "49",
+    {
+      "match_number": "49",
       "id": "m74",
       "stage": "First Stage",
       "group": "B",
@@ -597,7 +597,7 @@
       "status": "scheduled"
     },
     {
-"match_number": "50",
+      "match_number": "50",
       "id": "m75",
       "stage": "First Stage",
       "group": "B",
@@ -609,7 +609,7 @@
       "status": "scheduled"
     },
     {
-"match_number": "51",
+      "match_number": "51",
       "id": "m76",
       "stage": "First Stage",
       "group": "C",
@@ -621,7 +621,7 @@
       "status": "scheduled"
     },
     {
-"match_number": "52",
+      "match_number": "52",
       "id": "m77",
       "stage": "First Stage",
       "group": "C",
@@ -633,7 +633,7 @@
       "status": "scheduled"
     },
     {
-"match_number": "53",
+      "match_number": "53",
       "id": "m78",
       "stage": "First Stage",
       "group": "A",
@@ -645,7 +645,7 @@
       "status": "scheduled"
     },
     {
-"match_number": "54",
+      "match_number": "54",
       "id": "m79",
       "stage": "First Stage",
       "group": "A",
@@ -656,8 +656,8 @@
       "utc_time": "2026-06-25T06:30:00Z",
       "status": "scheduled"
     },
- {
-"match_number": "55",
+    {
+      "match_number": "55",
       "id": "m80",
       "stage": "First Stage",
       "group": "E",
@@ -669,7 +669,7 @@
       "status": "scheduled"
     },
     {
-"match_number": "56",
+      "match_number": "56",
       "id": "m81",
       "stage": "First Stage",
       "group": "E",
@@ -681,7 +681,7 @@
       "status": "scheduled"
     },
     {
-"match_number": "57",
+      "match_number": "57",
       "id": "m82",
       "stage": "First Stage",
       "group": "F",
@@ -693,7 +693,7 @@
       "status": "scheduled"
     },
     {
-"match_number": "58",
+      "match_number": "58",
       "id": "m83",
       "stage": "First Stage",
       "group": "F",
@@ -705,7 +705,7 @@
       "status": "scheduled"
     },
     {
-"match_number": "59",
+      "match_number": "59",
       "id": "m84",
       "stage": "First Stage",
       "group": "D",
@@ -717,7 +717,7 @@
       "status": "scheduled"
     },
     {
-"match_number": "60",
+      "match_number": "60",
       "id": "m85",
       "stage": "First Stage",
       "group": "D",
@@ -728,8 +728,8 @@
       "utc_time": "2026-06-26T07:30:00Z",
       "status": "scheduled"
     },
-{
-"match_number": "61",
+    {
+      "match_number": "61",
       "id": "m86",
       "stage": "First Stage",
       "group": "I",
@@ -741,7 +741,7 @@
       "status": "scheduled"
     },
     {
-"match_number": "62",
+      "match_number": "62",
       "id": "m87",
       "stage": "First Stage",
       "group": "I",
@@ -753,7 +753,7 @@
       "status": "scheduled"
     },
     {
-"match_number": "63",
+      "match_number": "63",
       "id": "m88",
       "stage": "First Stage",
       "group": "H",
@@ -765,7 +765,7 @@
       "status": "scheduled"
     },
     {
-"match_number": "64",
+      "match_number": "64",
       "id": "m89",
       "stage": "First Stage",
       "group": "H",
@@ -777,7 +777,7 @@
       "status": "scheduled"
     },
     {
-"match_number": "65",
+      "match_number": "65",
       "id": "m90",
       "stage": "First Stage",
       "group": "G",
@@ -789,7 +789,7 @@
       "status": "scheduled"
     },
     {
-"match_number": "66",
+      "match_number": "66",
       "id": "m91",
       "stage": "First Stage",
       "group": "G",
@@ -800,8 +800,8 @@
       "utc_time": "2026-06-27T08:30:00Z",
       "status": "scheduled"
     },
-{
-"match_number": "67",
+    {
+      "match_number": "67",
       "id": "m92",
       "stage": "First Stage",
       "group": "L",
@@ -813,7 +813,7 @@
       "status": "scheduled"
     },
     {
-"match_number": "68",
+      "match_number": "68",
       "id": "m93",
       "stage": "First Stage",
       "group": "L",
@@ -825,7 +825,7 @@
       "status": "scheduled"
     },
     {
-"match_number": "69",
+      "match_number": "69",
       "id": "m94",
       "stage": "First Stage",
       "group": "K",
@@ -837,7 +837,7 @@
       "status": "scheduled"
     },
     {
-"match_number": "70",
+      "match_number": "70",
       "id": "m95",
       "stage": "First Stage",
       "group": "K",
@@ -849,7 +849,7 @@
       "status": "scheduled"
     },
     {
-"match_number": "71",
+      "match_number": "71",
       "id": "m96",
       "stage": "First Stage",
       "group": "J",
@@ -861,7 +861,7 @@
       "status": "scheduled"
     },
     {
-"match_number": "72",
+      "match_number": "72",
       "id": "m97",
       "stage": "First Stage",
       "group": "J",
@@ -871,6 +871,116 @@
       "stadium": "Dallas Stadium",
       "utc_time": "2026-06-28T07:30:00Z",
       "status": "scheduled"
-    }
-  ]
+    },
+      {
+        "match_number": 73,
+        "id": "m98",
+        "stage": "Second Stage",
+        "group": "",
+        "home_team": {
+          "name": "Runner-up Group A",
+          "qualification": "Runner-up Group A",
+          "code": "2A",
+          "flag": ""
+        },
+        "away_team": {
+          "name": "Runner-up Group B",
+          "qualification": "Runner-up Group B",
+          "code": "2B",
+          "flag": ""
+        },
+        "city": "Los Angeles",
+        "stadium": "Los Angeles Stadium",
+        "utc_time": "2026-06-29T00:30:00Z",
+        "status": "scheduled"
+      },
+      {
+        "match_number": 74,
+        "id": "m99",
+        "stage": "Second Stage",
+        "group": "",
+        "home_team": {
+          "name": "Winner Group C",
+          "qualification": "Winner Group C",
+          "code": "1C",
+          "flag": ""
+        },
+        "away_team": {
+          "name": "Runner-up Group F",
+          "qualification": "Runner-up Group F",
+          "code": "2F",
+          "flag": ""
+        },
+        "city": "Houston",
+        "stadium": "Houston Stadium",
+        "utc_time": "2026-06-29T22:30:00Z",
+        "status": "scheduled"
+      },
+      {
+        "match_number": 75,
+        "id": "m100",
+        "stage": "Second Stage",
+        "group": "",
+        "home_team": {
+          "name": "Winner Group E",
+          "qualification": "Winner Group E",
+          "code": "1E",
+          "flag": ""
+        },
+        "away_team": {
+          "name": "Best 3rd Place (A/B/C/D/F)",
+          "qualification": "Best 3rd Place (A/B/C/D/F)",
+          "code": "3ABCDF",
+          "flag": ""
+        },
+        "city": "Boston",
+        "stadium": "Boston Stadium",
+        "utc_time": "2026-06-30T02:00:00Z",
+        "status": "scheduled"
+      },
+      {
+        "match_number": 76,
+        "id": "m101",
+        "stage": "Second Stage",
+        "group": "",
+        "home_team": {
+          "name": "Winner Group F",
+          "qualification": "Winner Group F",
+          "code": "1F",
+          "flag": ""
+        },
+        "away_team": {
+          "name": "Runner-up Group C",
+          "qualification": "Runner-up Group C",
+          "code": "2C",
+          "flag": ""
+        },
+        "city": "Monterrey",
+        "stadium": "Monterrey Stadium",
+        "utc_time": "2026-06-30T06:30:00Z",
+        "status": "scheduled"
+      },
+      {
+        "match_number": 77,
+        "id": "m102",
+        "stage": "Second Stage",
+        "group": "",
+        "home_team": {
+          "name": "Runner-up Group E",
+          "qualification": "Runner-up Group E",
+          "code": "2E",
+          "flag": ""
+        },
+        "away_team": {
+          "name": "Runner-up Group I",
+          "qualification": "Runner-up Group I",
+          "code": "2I",
+          "flag": ""
+        },
+        "city": "Dallas",
+        "stadium": "Dallas Stadium",
+        "utc_time": "2026-06-30T22:30:00Z",
+        "status": "scheduled"
+      }
+    ]
 }
