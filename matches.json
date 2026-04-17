@@ -1159,6 +1159,205 @@
     "stadium": "Dallas Stadium",
     "utc_time": "2026-07-03T23:30:00Z",
     "status": "scheduled"
+  },
+
+  {
+    "match_number": 87,
+    "id": "m112",
+    "stage": "Second Stage",
+    "group": "",
+    "home_team": {
+      "name": "Winner Group J",
+      "qualification": "Winner Group J",
+      "code": "1J",
+      "flag": ""
+    },
+    "away_team": {
+      "name": "Runner-up Group H",
+      "qualification": "Runner-up Group H",
+      "code": "2H",
+      "flag": ""
+    },
+    "city": "Miami",
+    "stadium": "Miami Stadium",
+    "utc_time": "2026-07-04T03:30:00Z",
+    "status": "scheduled"
+  },
+  {
+    "match_number": 88,
+    "id": "m113",
+    "stage": "Second Stage",
+    "group": "",
+    "home_team": {
+      "name": "Winner Group K",
+      "qualification": "Winner Group K",
+      "code": "1K",
+      "flag": ""
+    },
+    "away_team": {
+      "name": "Best 3rd Place (D/E/I/J/L)",
+      "qualification": "Best 3rd Place (D/E/I/J/L)",
+      "code": "3DEIJL",
+      "flag": ""
+    },
+    "city": "Kansas City",
+    "stadium": "Kansas City Stadium",
+    "utc_time": "2026-07-04T07:00:00Z",
+    "status": "scheduled"
+  },
+  {
+    "match_number": 89,
+    "id": "m114",
+    "stage": "Round of 16",
+    "group": "",
+    "home_team": {
+      "name": "Winner Match 73",
+      "qualification": "Winner Match 73",
+      "code": "W73",
+      "flag": ""
+    },
+    "away_team": {
+      "name": "Winner Match 75",
+      "qualification": "Winner Match 75",
+      "code": "W75",
+      "flag": ""
+    },
+    "city": "Houston",
+    "stadium": "Houston Stadium",
+    "utc_time": "2026-07-04T22:30:00Z",
+    "status": "scheduled"
+  },
+  {
+    "match_number": 90,
+    "id": "m115",
+    "stage": "Round of 16",
+    "group": "",
+    "home_team": {
+      "name": "Winner Match 74",
+      "qualification": "Winner Match 74",
+      "code": "W74",
+      "flag": ""
+    },
+    "away_team": {
+      "name": "Winner Match 77",
+      "qualification": "Winner Match 77",
+      "code": "W77",
+      "flag": ""
+    },
+    "city": "Philadelphia",
+    "stadium": "Philadelphia Stadium",
+    "utc_time": "2026-07-05T02:30:00Z",
+    "status": "scheduled"
+  },
+  {
+    "match_number": 91,
+    "id": "m116",
+    "stage": "Round of 16",
+    "group": "",
+    "home_team": {
+      "name": "Winner Match 76",
+      "qualification": "Winner Match 76",
+      "code": "W76",
+      "flag": ""
+    },
+    "away_team": {
+      "name": "Winner Match 78",
+      "qualification": "Winner Match 78",
+      "code": "W78",
+      "flag": ""
+    },
+    "city": "New York",
+    "stadium": "New York/New Jersey Stadium",
+    "utc_time": "2026-07-06T01:30:00Z",
+    "status": "scheduled"
+  },
+  {
+    "match_number": 92,
+    "id": "m117",
+    "stage": "Round of 16",
+    "group": "",
+    "home_team": {
+      "name": "Winner Match 79",
+      "qualification": "Winner Match 79",
+      "code": "W79",
+      "flag": ""
+    },
+    "away_team": {
+      "name": "Winner Match 80",
+      "qualification": "Winner Match 80",
+      "code": "W80",
+      "flag": ""
+    },
+    "city": "Mexico City",
+    "stadium": "Mexico City Stadium",
+    "utc_time": "2026-07-06T05:30:00Z",
+    "status": "scheduled"
+  },
+  {
+    "match_number": 93,
+    "id": "m118",
+    "stage": "Round of 16",
+    "group": "",
+    "home_team": {
+      "name": "Winner Match 83",
+      "qualification": "Winner Match 83",
+      "code": "W83",
+      "flag": ""
+    },
+    "away_team": {
+      "name": "Winner Match 84",
+      "qualification": "Winner Match 84",
+      "code": "W84",
+      "flag": ""
+    },
+    "city": "Dallas",
+    "stadium": "Dallas Stadium",
+    "utc_time": "2026-07-07T00:30:00Z",
+    "status": "scheduled"
+  },
+  {
+    "match_number": 94,
+    "id": "m119",
+    "stage": "Round of 16",
+    "group": "",
+    "home_team": {
+      "name": "Winner Match 81",
+      "qualification": "Winner Match 81",
+      "code": "W81",
+      "flag": ""
+    },
+    "away_team": {
+      "name": "Winner Match 82",
+      "qualification": "Winner Match 82",
+      "code": "W82",
+      "flag": ""
+    },
+    "city": "Seattle",
+    "stadium": "Seattle Stadium",
+    "utc_time": "2026-07-07T05:30:00Z",
+    "status": "scheduled"
+  },
+  {
+    "match_number": 95,
+    "id": "m120",
+    "stage": "Round of 16",
+    "group": "",
+    "home_team": {
+      "name": "Winner Match 86",
+      "qualification": "Winner Match 86",
+      "code": "W86",
+      "flag": ""
+    },
+    "away_team": {
+      "name": "Winner Match 88",
+      "qualification": "Winner Match 88",
+      "code": "W88",
+      "flag": ""
+    },
+    "city": "Atlanta",
+    "stadium": "Atlanta Stadium",
+    "utc_time": "2026-07-07T21:30:00Z",
+    "status": "scheduled"
   }
   ]
 }
