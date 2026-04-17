@@ -1358,6 +1358,161 @@
     "stadium": "Atlanta Stadium",
     "utc_time": "2026-07-07T21:30:00Z",
     "status": "scheduled"
+  },
+
+  {
+    "match_number": 96,
+    "id": "m121",
+    "stage": "Round of 16",
+    "group": "",
+    "home_team": {
+      "name": "Winner Match 85",
+      "qualification": "Winner Match 85",
+      "code": "W85",
+      "flag": ""
+    },
+    "away_team": {
+      "name": "Winner Match 87",
+      "qualification": "Winner Match 87",
+      "code": "W87",
+      "flag": ""
+    },
+    "city": "Vancouver",
+    "stadium": "BC Place Vancouver",
+    "utc_time": "2026-07-08T01:30:00Z",
+    "status": "scheduled"
+  },
+  {
+    "match_number": 97,
+    "id": "m122",
+    "stage": "Quarter-final",
+    "group": "",
+    "home_team": {
+      "name": "Winner Match 89",
+      "qualification": "Winner Match 89",
+      "code": "W89",
+      "flag": ""
+    },
+    "away_team": {
+      "name": "Winner Match 90",
+      "qualification": "Winner Match 90",
+      "code": "W90",
+      "flag": ""
+    },
+    "city": "Boston",
+    "stadium": "Boston Stadium",
+    "utc_time": "2026-07-10T01:30:00Z",
+    "status": "scheduled"
+  },
+  {
+    "match_number": 98,
+    "id": "m123",
+    "stage": "Quarter-final",
+    "group": "",
+    "home_team": {
+      "name": "Winner Match 93",
+      "qualification": "Winner Match 93",
+      "code": "W93",
+      "flag": ""
+    },
+    "away_team": {
+      "name": "Winner Match 94",
+      "qualification": "Winner Match 94",
+      "code": "W94",
+      "flag": ""
+    },
+    "city": "Los Angeles",
+    "stadium": "Los Angeles Stadium",
+    "utc_time": "2026-07-11T00:30:00Z",
+    "status": "scheduled"
+  },
+  {
+    "match_number": 99,
+    "id": "m124",
+    "stage": "Quarter-final",
+    "group": "",
+    "home_team": {
+      "name": "Winner Match 91",
+      "qualification": "Winner Match 91",
+      "code": "W91",
+      "flag": ""
+    },
+    "away_team": {
+      "name": "Winner Match 92",
+      "qualification": "Winner Match 92",
+      "code": "W92",
+      "flag": ""
+    },
+    "city": "Miami",
+    "stadium": "Miami Stadium",
+    "utc_time": "2026-07-12T02:30:00Z",
+    "status": "scheduled"
+  },
+  {
+    "match_number": 100,
+    "id": "m125",
+    "stage": "Quarter-final",
+    "group": "",
+    "home_team": {
+      "name": "Winner Match 95",
+      "qualification": "Winner Match 95",
+      "code": "W95",
+      "flag": ""
+    },
+    "away_team": {
+      "name": "Winner Match 96",
+      "qualification": "Winner Match 96",
+      "code": "W96",
+      "flag": ""
+    },
+    "city": "Kansas City",
+    "stadium": "Kansas City Stadium",
+    "utc_time": "2026-07-12T06:30:00Z",
+    "status": "scheduled"
+  },
+  {
+    "match_number": 101,
+    "id": "m126",
+    "stage": "Semi-final",
+    "group": "",
+    "home_team": {
+      "name": "Winner Match 97",
+      "qualification": "Winner Match 97",
+      "code": "W97",
+      "flag": ""
+    },
+    "away_team": {
+      "name": "Winner Match 98",
+      "qualification": "Winner Match 98",
+      "code": "W98",
+      "flag": ""
+    },
+    "city": "Dallas",
+    "stadium": "Dallas Stadium",
+    "utc_time": "2026-07-15T00:30:00Z",
+    "status": "scheduled"
+  },
+  {
+    "match_number": 102,
+    "id": "m127",
+    "stage": "Semi-final",
+    "group": "",
+    "home_team": {
+      "name": "Winner Match 99",
+      "qualification": "Winner Match 99",
+      "code": "W99",
+      "flag": ""
+    },
+    "away_team": {
+      "name": "Winner Match 100",
+      "qualification": "Winner Match 100",
+      "code": "W100",
+      "flag": ""
+    },
+    "city": "Atlanta",
+    "stadium": "Atlanta Stadium",
+    "utc_time": "2026-07-16T00:30:00Z",
+    "status": "scheduled"
   }
-  ]
+ ]
 }
