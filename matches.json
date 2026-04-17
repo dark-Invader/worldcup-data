@@ -1513,6 +1513,51 @@
     "stadium": "Atlanta Stadium",
     "utc_time": "2026-07-16T00:30:00Z",
     "status": "scheduled"
+  },
+
+  {
+    "match_number": 103,
+    "id": "m128",
+    "stage": "Third Place Play-off",
+    "group": "",
+    "home_team": {
+      "name": "Loser Match 101",
+      "qualification": "Loser Match 101",
+      "code": "RU101",
+      "flag": ""
+    },
+    "away_team": {
+      "name": "Loser Match 102",
+      "qualification": "Loser Match 102",
+      "code": "RU102",
+      "flag": ""
+    },
+    "city": "Miami",
+    "stadium": "Miami Stadium",
+    "utc_time": "2026-07-19T02:30:00Z",
+    "status": "scheduled"
+  },
+  {
+    "match_number": 104,
+    "id": "m129",
+    "stage": "Final",
+    "group": "",
+    "home_team": {
+      "name": "Winner Match 101",
+      "qualification": "Winner Match 101",
+      "code": "W101",
+      "flag": ""
+    },
+    "away_team": {
+      "name": "Winner Match 102",
+      "qualification": "Winner Match 102",
+      "code": "W102",
+      "flag": ""
+    },
+    "city": "New York",
+    "stadium": "New York/New Jersey Stadium",
+    "utc_time": "2026-07-20T00:30:00Z",
+    "status": "scheduled"
   }
  ]
 }
