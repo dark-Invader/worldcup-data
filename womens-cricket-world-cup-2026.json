@@ -1,5 +1,5 @@
 
-
+[
 {  "match_number": "1",  "id": "wt20wc26_m1",  "stage": "Group Stage",  "group": "A",  "home_team": {    "name": "England Women",    "code": "ENG-W",    "flag": "https://flagcdn.com/w320/gb-eng.png"  },  "away_team": {    "name": "Sri Lanka Women",    "code": "SL-W",    "flag": "https://flagcdn.com/w320/lk.png"  },  "city": "Birmingham",  "stadium": "Edgbaston",  "utc_time": "2026-06-12T17:30:00Z",  "status": "scheduled"},{
   "match_number": "2",
   "id": "wt20wc26_m2",
@@ -783,3 +783,4 @@
 
   "status": "scheduled"
 }
+]
