@@ -1,1 +1,785 @@
 
+
+{  "match_number": "1",  "id": "wt20wc26_m1",  "stage": "Group Stage",  "group": "A",  "home_team": {    "name": "England Women",    "code": "ENG-W",    "flag": "https://flagcdn.com/w320/gb-eng.png"  },  "away_team": {    "name": "Sri Lanka Women",    "code": "SL-W",    "flag": "https://flagcdn.com/w320/lk.png"  },  "city": "Birmingham",  "stadium": "Edgbaston",  "utc_time": "2026-06-12T17:30:00Z",  "status": "scheduled"},{
+  "match_number": "2",
+  "id": "wt20wc26_m2",
+  "stage": "Group Stage",
+  "group": "A",
+
+  "home_team": {
+    "name": "Scotland Women",
+    "code": "SCO-W",
+    "flag": "https://flagcdn.com/w320/gb-sct.png"
+  },
+
+  "away_team": {
+    "name": "Ireland Women",
+    "code": "IRE-W",
+    "flag": "https://flagcdn.com/w320/ie.png"
+  },
+
+  "city": "Manchester",
+  "stadium": "Old Trafford Cricket Ground",
+
+  "utc_time": "2026-06-13T09:30:00Z",
+
+  "status": "scheduled"
+},
+{
+  "match_number": "3",
+  "id": "wt20wc26_m3",
+  "stage": "Group Stage",
+  "group": "A",
+
+  "home_team": {
+    "name": "Australia Women",
+    "code": "AUS-W",
+    "flag": "https://flagcdn.com/w320/au.png"
+  },
+
+  "away_team": {
+    "name": "South Africa Women",
+    "code": "SA-W",
+    "flag": "https://flagcdn.com/w320/za.png"
+  },
+
+  "city": "Manchester",
+  "stadium": "Old Trafford Cricket Ground",
+
+  "utc_time": "2026-06-13T13:30:00Z",
+
+  "status": "scheduled"
+},{
+  "match_number": "4",
+  "id": "wt20wc26_m4",
+  "stage": "Group Stage",
+  "group": "A",
+
+  "home_team": {
+    "name": "West Indies Women",
+    "code": "WI-W",
+    "flag": "https://flagcdn.com/w320/jm.png"
+  },
+
+  "away_team": {
+    "name": "New Zealand Women",
+    "code": "NZ-W",
+    "flag": "https://flagcdn.com/w320/nz.png"
+  },
+
+  "city": "Southampton",
+  "stadium": "Hampshire Bowl",
+
+  "utc_time": "2026-06-13T17:30:00Z",
+
+  "status": "scheduled"
+},
+{
+  "match_number": "5",
+  "id": "wt20wc26_m5",
+  "stage": "Group Stage",
+  "group": "A",
+
+  "home_team": {
+    "name": "Bangladesh Women",
+    "code": "BAN-W",
+    "flag": "https://flagcdn.com/w320/bd.png"
+  },
+
+  "away_team": {
+    "name": "Netherlands Women",
+    "code": "NED-W",
+    "flag": "https://flagcdn.com/w320/nl.png"
+  },
+
+  "city": "Birmingham",
+  "stadium": "Edgbaston",
+
+  "utc_time": "2026-06-14T09:30:00Z",
+
+  "status": "scheduled"
+},{
+  "match_number": "6",
+  "id": "wt20wc26_m6",
+  "stage": "Group Stage",
+  "group": "A",
+
+  "home_team": {
+    "name": "India Women",
+    "code": "IND-W",
+    "flag": "https://flagcdn.com/w320/in.png"
+  },
+
+  "away_team": {
+    "name": "Pakistan Women",
+    "code": "PAK-W",
+    "flag": "https://flagcdn.com/w320/pk.png"
+  },
+
+  "city": "Birmingham",
+  "stadium": "Edgbaston",
+
+  "utc_time": "2026-06-14T13:30:00Z",
+
+  "status": "scheduled"
+},
+{
+  "match_number": "7",
+  "id": "wt20wc26_m7",
+  "stage": "Group Stage",
+  "group": "A",
+
+  "home_team": {
+    "name": "New Zealand Women",
+    "code": "NZ-W",
+    "flag": "https://flagcdn.com/w320/nz.png"
+  },
+
+  "away_team": {
+    "name": "Sri Lanka Women",
+    "code": "SL-W",
+    "flag": "https://flagcdn.com/w320/lk.png"
+  },
+
+  "city": "Southampton",
+  "stadium": "Hampshire Bowl",
+
+  "utc_time": "2026-06-16T13:30:00Z",
+
+  "status": "scheduled"
+},{
+  "match_number": "8",
+  "id": "wt20wc26_m8",
+  "stage": "Group Stage",
+  "group": "A",
+
+  "home_team": {
+    "name": "England Women",
+    "code": "ENG-W",
+    "flag": "https://flagcdn.com/w320/gb-eng.png"
+  },
+
+  "away_team": {
+    "name": "Ireland Women",
+    "code": "IRE-W",
+    "flag": "https://flagcdn.com/w320/ie.png"
+  },
+
+  "city": "Southampton",
+  "stadium": "Hampshire Bowl",
+
+  "utc_time": "2026-06-16T17:30:00Z",
+
+  "status": "scheduled"
+},
+{
+  "match_number": "9",
+  "id": "wt20wc26_m9",
+  "stage": "Group Stage",
+  "group": "A",
+
+  "home_team": {
+    "name": "Australia Women",
+    "code": "AUS-W",
+    "flag": "https://flagcdn.com/w320/au.png"
+  },
+
+  "away_team": {
+    "name": "Bangladesh Women",
+    "code": "BAN-W",
+    "flag": "https://flagcdn.com/w320/bd.png"
+  },
+
+  "city": "Leeds",
+  "stadium": "Headingley",
+
+  "utc_time": "2026-06-17T09:30:00Z",
+
+  "status": "scheduled"
+},{
+  "match_number": "10",
+  "id": "wt20wc26_m10",
+  "stage": "Group Stage",
+  "group": "A",
+
+  "home_team": {
+    "name": "India Women",
+    "code": "IND-W",
+    "flag": "https://flagcdn.com/w320/in.png"
+  },
+
+  "away_team": {
+    "name": "Netherlands Women",
+    "code": "NED-W",
+    "flag": "https://flagcdn.com/w320/nl.png"
+  },
+
+  "city": "Leeds",
+  "stadium": "Headingley",
+
+  "utc_time": "2026-06-17T13:30:00Z",
+
+  "status": "scheduled"
+},
+{
+  "match_number": "11",
+  "id": "wt20wc26_m11",
+  "stage": "Group Stage",
+  "group": "A",
+
+  "home_team": {
+    "name": "South Africa Women",
+    "code": "SA-W",
+    "flag": "https://flagcdn.com/w320/za.png"
+  },
+
+  "away_team": {
+    "name": "Pakistan Women",
+    "code": "PAK-W",
+    "flag": "https://flagcdn.com/w320/pk.png"
+  },
+
+  "city": "Birmingham",
+  "stadium": "Edgbaston",
+
+  "utc_time": "2026-06-17T17:30:00Z",
+
+  "status": "scheduled"
+},{
+  "match_number": "12",
+  "id": "wt20wc26_m12",
+  "stage": "Group Stage",
+  "group": "A",
+
+  "home_team": {
+    "name": "West Indies Women",
+    "code": "WI-W",
+    "flag": "https://flagcdn.com/w320/jm.png"
+  },
+
+  "away_team": {
+    "name": "Scotland Women",
+    "code": "SCO-W",
+    "flag": "https://flagcdn.com/w320/gb-sct.png"
+  },
+
+  "city": "Leeds",
+  "stadium": "Headingley",
+
+  "utc_time": "2026-06-18T17:30:00Z",
+
+  "status": "scheduled"
+},
+{
+  "match_number": "13",
+  "id": "wt20wc26_m13",
+  "stage": "Group Stage",
+  "group": "A",
+
+  "home_team": {
+    "name": "New Zealand Women",
+    "code": "NZ-W",
+    "flag": "https://flagcdn.com/w320/nz.png"
+  },
+
+  "away_team": {
+    "name": "Ireland Women",
+    "code": "IRE-W",
+    "flag": "https://flagcdn.com/w320/ie.png"
+  },
+
+  "city": "Southampton",
+  "stadium": "Hampshire Bowl",
+
+  "utc_time": "2026-06-19T17:30:00Z",
+
+  "status": "scheduled"
+},{
+  "match_number": "14",
+  "id": "wt20wc26_m14",
+  "stage": "Group Stage",
+  "group": "A",
+
+  "home_team": {
+    "name": "Australia Women",
+    "code": "AUS-W",
+    "flag": "https://flagcdn.com/w320/au.png"
+  },
+
+  "away_team": {
+    "name": "Netherlands Women",
+    "code": "NED-W",
+    "flag": "https://flagcdn.com/w320/nl.png"
+  },
+
+  "city": "Southampton",
+  "stadium": "Hampshire Bowl",
+
+  "utc_time": "2026-06-20T09:30:00Z",
+
+  "status": "scheduled"
+},
+{
+  "match_number": "15",
+  "id": "wt20wc26_m15",
+  "stage": "Group Stage",
+  "group": "A",
+
+  "home_team": {
+    "name": "Pakistan Women",
+    "code": "PAK-W",
+    "flag": "https://flagcdn.com/w320/pk.png"
+  },
+
+  "away_team": {
+    "name": "Bangladesh Women",
+    "code": "BAN-W",
+    "flag": "https://flagcdn.com/w320/bd.png"
+  },
+
+  "city": "Southampton",
+  "stadium": "Hampshire Bowl",
+
+  "utc_time": "2026-06-20T13:30:00Z",
+
+  "status": "scheduled"
+},{
+  "match_number": "16",
+  "id": "wt20wc26_m16",
+  "stage": "Group Stage",
+  "group": "A",
+
+  "home_team": {
+    "name": "England Women",
+    "code": "ENG-W",
+    "flag": "https://flagcdn.com/w320/gb-eng.png"
+  },
+
+  "away_team": {
+    "name": "Scotland Women",
+    "code": "SCO-W",
+    "flag": "https://flagcdn.com/w320/gb-sct.png"
+  },
+
+  "city": "Leeds",
+  "stadium": "Headingley",
+
+  "utc_time": "2026-06-20T17:30:00Z",
+
+  "status": "scheduled"
+},
+{
+  "match_number": "17",
+  "id": "wt20wc26_m17",
+  "stage": "Group Stage",
+  "group": "A",
+
+  "home_team": {
+    "name": "West Indies Women",
+    "code": "WI-W",
+    "flag": "https://flagcdn.com/w320/jm.png"
+  },
+
+  "away_team": {
+    "name": "Sri Lanka Women",
+    "code": "SL-W",
+    "flag": "https://flagcdn.com/w320/lk.png"
+  },
+
+  "city": "Bristol",
+  "stadium": "Bristol County Ground",
+
+  "utc_time": "2026-06-21T09:30:00Z",
+
+  "status": "scheduled"
+},{
+  "match_number": "18",
+  "id": "wt20wc26_m18",
+  "stage": "Group Stage",
+  "group": "A",
+
+  "home_team": {
+    "name": "South Africa Women",
+    "code": "SA-W",
+    "flag": "https://flagcdn.com/w320/za.png"
+  },
+
+  "away_team": {
+    "name": "India Women",
+    "code": "IND-W",
+    "flag": "https://flagcdn.com/w320/in.png"
+  },
+
+  "city": "Manchester",
+  "stadium": "Old Trafford Cricket Ground",
+
+  "utc_time": "2026-06-21T13:30:00Z",
+
+  "status": "scheduled"
+},
+{
+  "match_number": "19",
+  "id": "wt20wc26_m19",
+  "stage": "Group Stage",
+  "group": "A",
+
+  "home_team": {
+    "name": "New Zealand Women",
+    "code": "NZ-W",
+    "flag": "https://flagcdn.com/w320/nz.png"
+  },
+
+  "away_team": {
+    "name": "Scotland Women",
+    "code": "SCO-W",
+    "flag": "https://flagcdn.com/w320/gb-sct.png"
+  },
+
+  "city": "Bristol",
+  "stadium": "Bristol County Ground",
+
+  "utc_time": "2026-06-23T09:30:00Z",
+
+  "status": "scheduled"
+},{
+  "match_number": "20",
+  "id": "wt20wc26_m20",
+  "stage": "Group Stage",
+  "group": "A",
+
+  "home_team": {
+    "name": "Sri Lanka Women",
+    "code": "SL-W",
+    "flag": "https://flagcdn.com/w320/lk.png"
+  },
+
+  "away_team": {
+    "name": "Ireland Women",
+    "code": "IRE-W",
+    "flag": "https://flagcdn.com/w320/ie.png"
+  },
+
+  "city": "Bristol",
+  "stadium": "Bristol County Ground",
+
+  "utc_time": "2026-06-23T13:30:00Z",
+
+  "status": "scheduled"
+},
+{
+  "match_number": "21",
+  "id": "wt20wc26_m21",
+  "stage": "Group Stage",
+  "group": "A",
+
+  "home_team": {
+    "name": "Australia Women",
+    "code": "AUS-W",
+    "flag": "https://flagcdn.com/w320/au.png"
+  },
+
+  "away_team": {
+    "name": "Pakistan Women",
+    "code": "PAK-W",
+    "flag": "https://flagcdn.com/w320/pk.png"
+  },
+
+  "city": "Leeds",
+  "stadium": "Headingley",
+
+  "utc_time": "2026-06-23T17:30:00Z",
+
+  "status": "scheduled"
+},{
+  "match_number": "22",
+  "id": "wt20wc26_m22",
+  "stage": "Group Stage",
+  "group": "A",
+
+  "home_team": {
+    "name": "England Women",
+    "code": "ENG-W",
+    "flag": "https://flagcdn.com/w320/gb-eng.png"
+  },
+
+  "away_team": {
+    "name": "West Indies Women",
+    "code": "WI-W",
+    "flag": "https://flagcdn.com/w320/jm.png"
+  },
+
+  "city": "London",
+  "stadium": "Lord's Cricket Ground",
+
+  "utc_time": "2026-06-24T17:30:00Z",
+
+  "status": "scheduled"
+},
+{
+  "match_number": "23",
+  "id": "wt20wc26_m23",
+  "stage": "Group Stage",
+  "group": "A",
+
+  "home_team": {
+    "name": "India Women",
+    "code": "IND-W",
+    "flag": "https://flagcdn.com/w320/in.png"
+  },
+
+  "away_team": {
+    "name": "Bangladesh Women",
+    "code": "BAN-W",
+    "flag": "https://flagcdn.com/w320/bd.png"
+  },
+
+  "city": "Manchester",
+  "stadium": "Old Trafford Cricket Ground",
+
+  "utc_time": "2026-06-25T13:30:00Z",
+
+  "status": "scheduled"
+},{
+  "match_number": "24",
+  "id": "wt20wc26_m24",
+  "stage": "Group Stage",
+  "group": "A",
+
+  "home_team": {
+    "name": "South Africa Women",
+    "code": "SA-W",
+    "flag": "https://flagcdn.com/w320/za.png"
+  },
+
+  "away_team": {
+    "name": "Netherlands Women",
+    "code": "NED-W",
+    "flag": "https://flagcdn.com/w320/nl.png"
+  },
+
+  "city": "Bristol",
+  "stadium": "Bristol County Ground",
+
+  "utc_time": "2026-06-25T17:30:00Z",
+
+  "status": "scheduled"
+},
+{
+  "match_number": "25",
+  "id": "wt20wc26_m25",
+  "stage": "Group Stage",
+  "group": "A",
+
+  "home_team": {
+    "name": "Sri Lanka Women",
+    "code": "SL-W",
+    "flag": "https://flagcdn.com/w320/lk.png"
+  },
+
+  "away_team": {
+    "name": "Scotland Women",
+    "code": "SCO-W",
+    "flag": "https://flagcdn.com/w320/gb-sct.png"
+  },
+
+  "city": "Manchester",
+  "stadium": "Old Trafford Cricket Ground",
+
+  "utc_time": "2026-06-26T17:30:00Z",
+
+  "status": "scheduled"
+},{
+  "match_number": "26",
+  "id": "wt20wc26_m26",
+  "stage": "Group Stage",
+  "group": "A",
+
+  "home_team": {
+    "name": "Pakistan Women",
+    "code": "PAK-W",
+    "flag": "https://flagcdn.com/w320/pk.png"
+  },
+
+  "away_team": {
+    "name": "Netherlands Women",
+    "code": "NED-W",
+    "flag": "https://flagcdn.com/w320/nl.png"
+  },
+
+  "city": "Bristol",
+  "stadium": "Bristol County Ground",
+
+  "utc_time": "2026-06-27T09:30:00Z",
+
+  "status": "scheduled"
+},
+{
+  "match_number": "27",
+  "id": "wt20wc26_m27",
+  "stage": "Group Stage",
+  "group": "A",
+
+  "home_team": {
+    "name": "West Indies Women",
+    "code": "WI-W",
+    "flag": "https://flagcdn.com/w320/jm.png"
+  },
+
+  "away_team": {
+    "name": "Ireland Women",
+    "code": "IRE-W",
+    "flag": "https://flagcdn.com/w320/ie.png"
+  },
+
+  "city": "Bristol",
+  "stadium": "Bristol County Ground",
+
+  "utc_time": "2026-06-27T13:30:00Z",
+
+  "status": "scheduled"
+},{
+  "match_number": "28",
+  "id": "wt20wc26_m28",
+  "stage": "Group Stage",
+  "group": "A",
+
+  "home_team": {
+    "name": "England Women",
+    "code": "ENG-W",
+    "flag": "https://flagcdn.com/w320/gb-eng.png"
+  },
+
+  "away_team": {
+    "name": "New Zealand Women",
+    "code": "NZ-W",
+    "flag": "https://flagcdn.com/w320/nz.png"
+  },
+
+  "city": "London",
+  "stadium": "The Oval",
+
+  "utc_time": "2026-06-27T17:30:00Z",
+
+  "status": "scheduled"
+},
+{
+  "match_number": "29",
+  "id": "wt20wc26_m29",
+  "stage": "Group Stage",
+  "group": "A",
+
+  "home_team": {
+    "name": "South Africa Women",
+    "code": "SA-W",
+    "flag": "https://flagcdn.com/w320/za.png"
+  },
+
+  "away_team": {
+    "name": "Bangladesh Women",
+    "code": "BAN-W",
+    "flag": "https://flagcdn.com/w320/bd.png"
+  },
+
+  "city": "London",
+  "stadium": "Lord's Cricket Ground",
+
+  "utc_time": "2026-06-28T09:30:00Z",
+
+  "status": "scheduled"
+},
+{
+  "match_number": "30",
+  "id": "wt20wc26_m30",
+  "stage": "Group Stage",
+  "group": "A",
+
+  "home_team": {
+    "name": "Australia Women",
+    "code": "AUS-W",
+    "flag": "https://flagcdn.com/w320/au.png"
+  },
+
+  "away_team": {
+    "name": "India Women",
+    "code": "IND-W",
+    "flag": "https://flagcdn.com/w320/in.png"
+  },
+
+  "city": "London",
+  "stadium": "Lord's Cricket Ground",
+
+  "utc_time": "2026-06-28T13:30:00Z",
+
+  "status": "scheduled"
+},
+{
+  "match_number": "31",
+  "id": "wt20wc26_sf1",
+  "stage": "Semi Final",
+
+  "home_team": {
+    "name": "T.B.C.",
+    "code": "TBD",
+    "flag": ""
+  },
+
+  "away_team": {
+    "name": "T.B.C.",
+    "code": "TBD",
+    "flag": ""
+  },
+
+  "city": "London",
+  "stadium": "The Oval",
+
+  "utc_time": "2026-06-30T13:30:00Z",
+
+  "status": "scheduled"
+},{
+  "match_number": "32",
+  "id": "wt20wc26_sf2",
+  "stage": "Semi Final",
+
+  "home_team": {
+    "name": "T.B.C.",
+    "code": "TBD",
+    "flag": ""
+  },
+
+  "away_team": {
+    "name": "T.B.C.",
+    "code": "TBD",
+    "flag": ""
+  },
+
+  "city": "London",
+  "stadium": "The Oval",
+
+  "utc_time": "2026-07-02T17:30:00Z",
+
+  "status": "scheduled"
+},
+{
+  "match_number": "33",
+  "id": "wt20wc26_final",
+  "stage": "Final",
+
+  "home_team": {
+    "name": "T.B.C.",
+    "code": "TBD",
+    "flag": ""
+  },
+
+  "away_team": {
+    "name": "T.B.C.",
+    "code": "TBD",
+    "flag": ""
+  },
+
+  "city": "London",
+  "stadium": "Lord's Cricket Ground",
+
+  "utc_time": "2026-07-05T13:30:00Z",
+
+  "status": "scheduled"
+}
