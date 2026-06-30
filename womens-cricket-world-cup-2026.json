@@ -721,15 +721,15 @@
   "stage": "Semi Final",
 
   "home_team": {
-    "name": "T.B.C.",
-    "code": "TBD",
-    "flag": ""
+    "name": "Australia Women",
+    "code": "AUS-W",
+    "flag": "https://flagcdn.com/w320/au.png"
   },
 
   "away_team": {
-    "name": "T.B.C.",
-    "code": "TBD",
-    "flag": ""
+    "name": "West Indies Women",
+    "code": "WI-W",
+    "flag": "https://flagcdn.com/w320/jm.png"
   },
 
   "city": "London",
